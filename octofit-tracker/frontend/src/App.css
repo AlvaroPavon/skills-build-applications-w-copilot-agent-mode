@@ -1,0 +1,23 @@
+.app {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 2rem;
+  font-family: system-ui, sans-serif;
+  color: #111827;
+}
+
+main {
+  text-align: center;
+}
+
+h1 {
+  margin-bottom: 1rem;
+  font-size: 2.5rem;
+}
+
+p {
+  color: #4b5563;
+  font-size: 1.1rem;
+}
